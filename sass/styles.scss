@@ -74,6 +74,7 @@ body {
         transition: 0.25s;
         cursor: pointer;
         font-weight: bold;
+        position: relative;
 
         &:hover {
             background: none;
@@ -83,7 +84,6 @@ body {
             border-color: $gold;
             background: $gold;
             color: black;
-
         }
     }
 

@@ -78,7 +78,8 @@ body {
     -webkit-transition: 0.25s;
     transition: 0.25s;
     cursor: pointer;
-    font-weight: bold; }
+    font-weight: bold;
+    position: relative; }
     .container input[type="submit"]:hover {
       background: none;
       display: block;
